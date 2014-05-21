@@ -1,6 +1,10 @@
 Acts As HTML Sanitized
 ======================
 
+[![Gem Version](https://badge.fury.io/rb/acts_as_html_sanitized.svg)](http://badge.fury.io/rb/acts_as_html_sanitized)
+[![Build Status](https://travis-ci.org/sgerrand/acts_as_html_sanitizer.svg?branch=master)](https://travis-ci.org/sgerrand/acts_as_html_sanitizer)
+[![Code Climate](https://codeclimate.com/github/sgerrand/acts_as_html_sanitizer.png)](https://codeclimate.com/github/sgerrand/acts_as_html_sanitizer)
+
 ![...and I hope you've learned to sanitize your database inputs](http://imgs.xkcd.com/comics/exploits_of_a_mom.png)
 
 Sanitize your database inputs!
