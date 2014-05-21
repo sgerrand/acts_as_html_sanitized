@@ -1,11 +1,14 @@
 Acts As HTML Sanitized
 ======================
 
+<<<<<<< HEAD
 [![Gem Version](https://badge.fury.io/rb/acts_as_html_sanitized.svg)](http://badge.fury.io/rb/acts_as_html_sanitized)
 [![Build Status](https://travis-ci.org/sgerrand/acts_as_html_sanitized.svg)](https://travis-ci.org/sgerrand/acts_as_html_sanitized)
 [![Code Climate](https://codeclimate.com/github/sgerrand/acts_as_html_sanitized.png)](https://codeclimate.com/github/sgerrand/acts_as_html_sanitized)
 [![Coverage Status](https://img.shields.io/coveralls/sgerrand/acts_as_html_sanitized.svg)](https://coveralls.io/r/sgerrand/acts_as_html_sanitized)
 
+=======
+>>>>>>> Initial commit
 ![...and I hope you've learned to sanitize your database inputs](http://imgs.xkcd.com/comics/exploits_of_a_mom.png)
 
 Sanitize your database inputs!
