@@ -13,6 +13,7 @@ end
 group :development do
   gem 'rake'
   gem 'activerecord-jdbcsqlite3-adapter', :platforms => :jruby
+  gem 'sqlite3', :platforms => :ruby
   gem 'rails', '~> 3.2.0'
 end
 
