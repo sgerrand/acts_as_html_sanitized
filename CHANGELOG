@@ -1,0 +1,4 @@
+v0.0.1 	Initial commits
+				Added main `acts_as_html_sanitized` method, which gets applied
+				across all attributes exposed on an ActiveRecord model record during
+				the `before_validate` callback hook.
