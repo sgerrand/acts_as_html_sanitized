@@ -1,4 +1,4 @@
-require 'test_helper'
+require 'helper'
 
 ActiveRecord::Base.establish_connection(adapter: "sqlite3", database: ":memory:")
 ActiveRecord::Schema.verbose = false
@@ -32,7 +32,7 @@ class Test < ActiveRecord::Base
   acts_as_html_sanitized
 end
 
-class ActsAsHtmlSanitizedTest < MiniTest::Unit::TestCase
+class TestActsAsHtmlSanitized < MiniTest::Unit::TestCase
   def setup
     ActiveRecord::Base.connection.tables.each { |table| ActiveRecord::Base.connection.drop_table(table) }
     setup_db
